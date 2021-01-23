@@ -51,8 +51,8 @@ export default {
         { name: "twitter:card", content: "summary_large_image" },
         { name: "twitter:title", content: `Posts written by ${this.titleCase(this.$page.author.title)}` },
         { name: "twitter:description", content: `Browse posts written by ${this.titleCase(this.$page.author.title)}` },
-        { name: "twitter:site", content: "@cossssmin" },
-        { name: "twitter:creator", content: "@cossssmin" },
+        { name: "twitter:site", content: "@laymui" },
+        { name: "twitter:creator", content: "laymui" },
         { name: "twitter:image", content: this.ogImageUrl },
       ],
     }

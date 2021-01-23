@@ -5,7 +5,7 @@
 
       <article class="max-w-xl md:max-w-2xl xl:max-w-3xl mx-auto px-6 sm:px-12 pt-16" :class="{'border-b border-grey-lighter pb-10 mb-16': !$page.post.author}">
 
-       
+
 
         <div :class="{'pb-10': $page.post.author || $page.post.tags}" class="markdown text-lg leading-normal text-gray-700" v-html="$page.post.content" />
 
@@ -73,8 +73,8 @@ export default {
         { name: "twitter:card", content: "summary_large_image" },
         { name: "twitter:title", content: this.$page.post.title },
         { name: "twitter:description", content: this.description(this.$page.post) },
-        { name: "twitter:site", content: "@cossssmin" },
-        { name: "twitter:creator", content: "@cossssmin" },
+        { name: "twitter:site", content: "@laymui" },
+        { name: "twitter:creator", content: "@laymui" },
         { name: "twitter:image", content: this.ogImageUrl },
       ],
     }
