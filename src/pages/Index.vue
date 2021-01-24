@@ -6,12 +6,12 @@
           <h1 class="text-4xl sm:text-5xl md:text-6xl font-sans font-bold mb-1">
             <g-link to="/" class="text-black">LayMui</g-link>
               <div class="text-center">
-            <img src="../../static/images/plum-flower.jpg"/>
+            <img contain height=50px width=700px src="../../static/images/plum-flower.jpg"/>
 
             </div>
 
           </h1>
-           <p class="text-gray-700 text-lg sm:text-3xl">Thoughts, stories, and ideas.</p>
+           <p class="text-gray-700 text-lg sm:text-3xl text-center">Thoughts, stories, and ideas.</p>
 
         </div>
       </header>

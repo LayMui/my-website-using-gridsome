@@ -22,3 +22,11 @@ fullscreen: true
 ![](../../../static/images/Toy_5.jpg)
 - Don't let go of my hand
 ![](../../../static/images/Toy_6.jpg)
+- Give my best to the Master
+![](../../../static/images/Toy_7.jpg)
+- Praise and worship
+![](../../../static/images/Toy_8.jpg)
+- 讓讚美飛揚
+![](../../../static/images/Toy_9.jpg)
+- Enter his gates with thanks and his courts with praise
+![](../../../static/images/Toy_10.jpg)
