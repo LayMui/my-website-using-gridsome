@@ -12,7 +12,7 @@ cover:
 fullscreen: true
 ---
 
-## The health benefits of soy and pyslium husk, main ingredients in Soygreen
+## The health benefits of soy and psylium husk, main ingredients in Soygreen
 
 Soybean has been part of our human diet for around 5000 years 
 
