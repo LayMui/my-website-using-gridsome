@@ -7,7 +7,7 @@ tags:
     - food 
     - photography
     
-cover: ../../../static/images/Food_1.jpg
+cover: stringify({(../../../static/images/Food_1.jpg)})
 
 fullscreen: true
 ---

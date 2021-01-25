@@ -16,7 +16,6 @@
           <h2>Communication skills</h2>
           <p>This is a soft skill that I want to work on</p>
           <p>It's all about relationship how I can build good rapport and relationship with people</p>
-          <p>How to turn your enemies into your friends and become part of your camp?</p>
           <h2>From QA to expand into DevOps</h2>
           <p>A dream written down with a date become a goal</p>
           <p>A goal broken down into steps becomes a plan</p>
