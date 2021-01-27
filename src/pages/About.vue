@@ -26,7 +26,7 @@
       watch this -> <a href="youtube channel" target="_blank">https://www.youtube.com/watch?v=9pZ2xmsSDdo</a>
     </p>
 
-           <p>My first step is the AZ400 course and to get the certication</p>
+           <p>My first step is the AZ400 course and to get the certification</p>
            <p>頑張ってください</p>
 
         </div>
