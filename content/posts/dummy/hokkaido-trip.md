@@ -6,7 +6,7 @@ author: laymui
 tags:
     - hokkaido
     - lily of the valley
-cover: 
+cover: https://jpcom.imgix.net/cms/special_pages/gmtm/gmtp-wp-takeground-20200609013920.jpg
 fullscreen: true
 ---
 
