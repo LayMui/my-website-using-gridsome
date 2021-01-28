@@ -5,7 +5,7 @@ date: 2020-01-19 13:59:57
 author: laymui
 tags:
     - sketching
-cover: 
+cover: https://jpcom.imgix.net/cms/special_pages/gmtm/gmtp-wp-whomjesusloves-20200609013918.jpg
 fullscreen: true
 ---
 

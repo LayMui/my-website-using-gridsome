@@ -1,11 +1,11 @@
 ---
-title: "Target - Simple and powerful routine"
+title: "Simple and powerful routine"
 description: "simple daily routine"
 date: 2020-01-25 13:59:57
 author: laymui
 tags:
     - intimacy with God
-cover: 
+cover: https://jpcom.imgix.net/cms/special_pages/gmtm/gmtp-wp-faith-20200609013926.jpg
 fullscreen: true
 ---
 

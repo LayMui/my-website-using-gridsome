@@ -8,7 +8,8 @@ tags:
     - soy
     - soygreen
     - weight management
-cover: 
+ 
+cover: https://jpcom.imgix.net/cms/special_pages/gmtm/gmtp-wp-faith-20200609013926.jpg
 fullscreen: true
 ---
 

@@ -8,7 +8,7 @@ tags:
     - photography
     
 
-cover: https://images.unsplash.com/photo-1518010741929-b44e969137d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=80
+cover: https://jpcom.imgix.net/cms/special_pages/gmtm/gmtp-wp-delight-20200609013916.jpg
 fullscreen: true
 ---
 

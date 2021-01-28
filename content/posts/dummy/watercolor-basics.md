@@ -6,7 +6,7 @@ author: laymui
 tags:
     - watercolor
     - painting
-cover: 
+cover: https://jpcom.imgix.net/cms/special_pages/gmtm/gmtp-wp-promises-20200609013922.jpg
 fullscreen: true
 ---
 

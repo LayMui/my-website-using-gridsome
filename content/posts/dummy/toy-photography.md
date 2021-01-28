@@ -5,7 +5,7 @@ date: 2014-12-14 13:59:57
 author: laymui
 tags:
     - toy photography
-cover: 
+cover: https://jpcom.imgix.net/cms/special_pages/gmtm/gmtp-wp-promises-20200609013922.jpg
 fullscreen: true
 ---
 
