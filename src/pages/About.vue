@@ -13,9 +13,6 @@
           <p>Hi there. My name is LayMui, I am a software developer with focus in testing.</p>
           <p>Microsoft has a term of such role called SDET</p>
           <hr>
-          <h2>Communication skills</h2>
-          <p>This is a soft skill that I want to work on</p>
-          <p>It's all about relationship how I can build good rapport and relationship with people</p>
           <h2>From QA to expand into DevOps</h2>
           <p>A dream written down with a date become a goal</p>
           <p>A goal broken down into steps becomes a plan</p>
@@ -28,6 +25,7 @@
 
            <p>My first step is the AZ400 course and to get the certification</p>
            <p>頑張ってください</p>
+           <img src="../../static/images/az400-cert.png" alt="AZ-400 with Trainocate" width="500" height="600">
 
         </div>
       </article>
